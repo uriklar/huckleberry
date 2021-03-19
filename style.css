@@ -20,12 +20,14 @@ header {
   margin-top: 96px;
   padding-bottom: 48px;
   border-bottom: 4px solid hsl(0deg, 0%, 30%);
-  padding-left: 24px;
-  padding-right: 24px;
 }
 
 .title {
   margin-bottom: 32px;
+}
+
+.intro-chunk {
+  padding: 16px;
 }
 
 .intro-chunk p {
